@@ -1,5 +1,8 @@
 # KN-M6
 
+
+[Materi.pdf](https://github.com/yozoracaelum/KN-M6/files/11332102/Materi.pdf)
+
 ## Regresi
 
 ```mermaid
