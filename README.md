@@ -1,7 +1,7 @@
 # KN-M6
 
+[Materi.pdf](https://github.com/yozoracaelum/KN-M6/files/11340682/Materi.pdf)
 
-<a href="https://github.com/yozoracaelum/KN-M6/files/11332168/Materi.pdf" target="_blank">Materi.pdf</a>
 
 ## Regresi
 
